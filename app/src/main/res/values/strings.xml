@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ledger</string>
+    <string name="site_url">https://ledger-eight-rouge.vercel.app/</string>
+</resources>
